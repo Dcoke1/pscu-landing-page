@@ -1,2 +1,2 @@
 # pscu-landing-page
-Landing page developed fro PSCU
+Landing page developed for PSCU
